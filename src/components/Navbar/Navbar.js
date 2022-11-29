@@ -34,6 +34,6 @@ const Navbar = () => {
   )
 }
 let btnCarrito = document.getElementById("carrito");
-btnCarrito.innerText="🛒(5)"
+btnCarrito.innerText="🛒(3)";
 
 export default Navbar
